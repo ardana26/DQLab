@@ -20,7 +20,7 @@
   Repositori ini saya gunakan untuk menyimpan dan membagikan data sebagai hasil dari belajar dan mengerjakan berbagai materi dan project di DQLab. Dalam setiap folder akan saya lampirkan dokumen markdown dan data yang digunakan dalam materi atau project yang bersangkutan.
 </p>
 
-<b/r>
+<br />
 
 <h1 align="center">Yuk Belajar di DQLab</h1>
 
