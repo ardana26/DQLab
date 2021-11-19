@@ -22,6 +22,10 @@
 
 <br />
 
+<<<<<<< HEAD
+=======
+---
+>>>>>>> fea80d2aed06dedd99172bb31faabdd9d69558e5
 
 <!-- # Learn -->
 
@@ -105,4 +109,8 @@
 ![Poster](README/Poster.png)
 
 Yuk belajar data science bersama DQLab dengan daftarkan diri kamu dengan signup di [dqlab.id](dqlab.id).  
+<<<<<<< HEAD
 Dapatkan potongan 10% dengan menggunakan kode referral "ARYA3969" atau klik [tautan ini](https://dqlab.id/signup?referralCode=ARYA3969) !
+=======
+Dapatkan potongan 10% dengan menggunakan kode referral "ARYA3969" atau klik [tautan ini](https://dqlab.id/signup?referralCode=ARYA3969) !
+>>>>>>> fea80d2aed06dedd99172bb31faabdd9d69558e5
