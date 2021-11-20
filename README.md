@@ -20,7 +20,29 @@
   Repositori ini saya gunakan untuk menyimpan dan membagikan data sebagai hasil dari belajar dan mengerjakan berbagai materi dan project di DQLab. Dalam setiap folder akan saya lampirkan dokumen markdown dan data yang digunakan dalam materi atau project yang bersangkutan.
 </p>
 
-<b/r>
+<br />
+
+---
+
+<!-- # Learn -->
+
+<h1 align="center">Skill Track</h1>
+
+![Learn](README/Learn.jpg)
+
+<br />
+
+---
+
+<h1 align="center">Career Track</h1>
+
+![Career](README/Career.jpg)
+
+## Data Analyst Career Track (Python) [[🔍](https://academy.dqlab.id/main/track/67)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)] <a href='README\analytics2.png'><img src='README\analytics2.png' align="right" height="45" /></a>
+
+<br />
+
+---
 
 <h1 align="center">Yuk Belajar di DQLab</h1>
 
