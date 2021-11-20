@@ -26,13 +26,9 @@
 
 ![Learn](README/Learn.jpg)
 
-<br />
-
 <h1 align="center">Career Track</h1>
 
 ![Career](README/Career.jpg)
-
-<br />
 
 <h1 align="center">Yuk Belajar di DQLab</h1>
 
