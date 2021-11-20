@@ -21,6 +21,7 @@
 </p>
 
 <br />
+<<<<<<< HEAD
 
 ---
 
@@ -43,6 +44,8 @@
 <br />
 
 ---
+=======
+>>>>>>> b64a08874518c68b3856a8b56371cc0fb2d20c12
 
 <h1 align="center">Yuk Belajar di DQLab</h1>
 
